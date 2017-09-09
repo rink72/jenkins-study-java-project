@@ -18,6 +18,11 @@ public class Rectangle
 	{
 		return 2 * ( length + width ) ;
 	}
+	
+	public int getSomething()
+	{
+		return 0 ;
 
+	}
 
 }
